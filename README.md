@@ -1,7 +1,7 @@
 Hi there.
 You may want to connect with me:
-1. Visit my [LinkedIn](www.linkedin.com/in/pavlokozub) account
-2. Send me [email](pavlo.kozub@gmail.com)
+1. Visit my [LinkedIn](https://www.linkedin.com/in/pavlokozub) account
+2. Send me [email](mailto:pavlo.kozub+github.com@gmail.com)
 3. Message me via [telegram](https://t.me/persononomo)
 
 <!--
