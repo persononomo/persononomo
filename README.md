@@ -1,4 +1,7 @@
-### Hi there 👋
+Hi there.
+You may want to connect with me:
+1. My [LinkedIn](www.linkedin.com/in/pavlokozub) account
+2. My [email](pavlo.kozub@gmail.com)
 
 <!--
 **persononomo/persononomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
