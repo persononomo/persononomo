@@ -1,8 +1,8 @@
-Hi there.
+Hi there 👋.
 You may want to connect with me:
 1. Visit my [LinkedIn](https://www.linkedin.com/in/pavlokozub) account
 2. Send me [email](mailto:pavlo.kozub+github.com@gmail.com)
-3. Message me via [telegram](https://t.me/persononomo)
+3. Message me via [Telegram](https://t.me/persononomo)
 
 <!--
 **persononomo/persononomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
