@@ -1,8 +1,20 @@
-Hi there 👋.
-You may want to connect with me:
-1. Visit my [LinkedIn](https://www.linkedin.com/in/pavlokozub) account
-2. Send me [email](mailto:pavlo.kozub+github.com@gmail.com)
-3. Message me via [Telegram](https://t.me/persononomo)
+### Pavlo Kozub — Senior DevOps / SRE
+
+Currently keeping a high-load iGaming platform running on
+**5 EKS clusters / 400+ microservices**.
+
+Previously CTO at [Oversecured](https://oversecured.com) — scaled the
+SaaS to 5,000 clients on serverless (Lambda + DynamoDB + S3) at
+near-zero AWS spend.
+
+**Stack:** AWS · EKS · Pulumi (Python) · OpenTelemetry · Prometheus ·
+VictoriaMetrics · ClickHouse · Grafana · GitHub Actions · Cloudflare
+
+- 🌍 Krakow, Poland · async-friendly
+- 💼 [LinkedIn](https://www.linkedin.com/in/pavlokozub)
+- 🌐 [kozub.dev](https://kozub.dev)
+- ✉️ pavlo.kozub@gmail.com
+
 
 <!--
 **persononomo/persononomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
